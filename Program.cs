@@ -1,9 +1,96 @@
 ﻿using Projeto.Models;
 
-Calculadora calc = new Calculadora();
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Calculadora calc = new Calculadora();
+
+// int soma = 0, numero = 0;
+
+// do 
+// {
+//      Console.WriteLine("Digite um numero (0 para parar)");
+//      numero = Convert.ToInt32(Console.ReadLine());
+     
+//      soma += numero;
+
+// } while(numero !=0);
+
+// Console.WriteLine($"Total da soma é {soma}");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// int numero = 100;
+// int contador = 1;
+
+// while(contador < 211)
+// {
+//  Console.WriteLine($"{contador}° Execução: {numero} x {contador} = {numero * contador}");
+
+//  contador++;
+ 
+//  if (contador == 6)
+//  {
+//      break;
+//  }
+
+// }
 
 
 
@@ -63,26 +150,6 @@ Calculadora calc = new Calculadora();
 // {
 //      Console.WriteLine($"{numero} x {contador} = {numero * contador}");
 // }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
