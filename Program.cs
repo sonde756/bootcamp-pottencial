@@ -3,14 +3,66 @@
 Calculadora calc = new Calculadora();
 
 
-Console.WriteLine("Digite o valor da tabuada");
-int numero = Convert.ToInt32(Console.ReadLine());
 
-for(int contador = 0; contador <= 100; contador++)
-{
-     Console.WriteLine($"{numero} x {contador} = {numero * contador}");
-}
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Console.WriteLine("Digite o valor da tabuada");
+// int numero = Convert.ToInt32(Console.ReadLine());
+
+// for(int contador = 0; contador <= 100; contador++)
+// {
+//      Console.WriteLine($"{numero} x {contador} = {numero * contador}");
+// }
 
 
 
